@@ -2,7 +2,7 @@
 # Author: Kylin Zhang
 # Time: 2024/5/27 - 16:49
 
-# step1：对原始数据表格进行特征提取，得到文件SolarPrediction_processed.csv
+# step1-1：对原始数据表格进行特征提取，得到文件SolarPrediction_processed.csv
 
 
 import pandas as pd
