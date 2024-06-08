@@ -1,0 +1,8 @@
+Parameter,Value
+feature_size,9
+output_size,1
+hidden_size,256
+num_heads,16
+num_channels,"64, 128, 256"
+kernel_size,2
+dropout,0.2
